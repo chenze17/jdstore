@@ -16,3 +16,39 @@
  @import "bootstrap-sprockets";
  @import "bootstrap";
  @import "font-awesome";
+
+ .box {
+     background-image: url("https://ws2.sinaimg.cn/large/006tNbRwgy1fg98xdiajwj31kw0yyhdt.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+     margin-bottom: 10px;
+     margin-top: -20px;
+
+
+     .box-inner {
+         padding-bottom: 10px;
+         margin-top: 150px;
+         margin-bottom: 150px;
+     }
+
+     .title {
+         text-align: center;
+         margin-bottom: 10px;
+         color: #FF9933;
+     }
+
+     .slogan {
+         color: #FF9933;
+         margin-top: 30px;
+         margin-bottom: 70px;
+         text-align: center;
+         font-size: 35px;
+         top: 22px;
+     }
+
+     .lead {
+         margin-bottom: 110px;
+         text-align: center;
+         color: white;
+     }
+ }
