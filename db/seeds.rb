@@ -1,9 +1,9 @@
 u = User.new
-u.email = "czp__2013@163.com"           # 可以改成自己的 email
+u.email = "2207308482@qq.com"           # 可以改成自己的 email
 
-u.password = "123456"                # 最少要六码
+u.password = "923456"                # 最少要六码
 
-u.password_confirmation = "123456"   # 最少要六码
+u.password_confirmation = "923456"   # 最少要六码
 
 u.is_admin = true
 u.save
