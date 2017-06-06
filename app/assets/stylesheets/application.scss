@@ -18,37 +18,39 @@
  @import "font-awesome";
 
  .box {
-     background-image: url("https://ws2.sinaimg.cn/large/006tNc79gy1fg9fae5vxoj31kw0yyhdt.jpg");
+     background-image: url("https://ws3.sinaimg.cn/large/006tNc79gy1fgap672itgj31kw0tyhdt.jpg");
      background-repeat: no-repeat;
-     background-size: cover;
-     margin-bottom: 10px;
+     background-size: 100%;
+     margin-bottom: 0px;
      margin-top: -20px;
 
 
      .box-inner {
-         padding-bottom: 10px;
+         padding-bottom: 0px;
          margin-top: 150px;
-         margin-bottom: 150px;
+         margin-bottom: 50px;
      }
 
      .title {
          text-align: center;
-         margin-bottom: 10px;
+         margin-top: 180px;
+         margin-bottom: 80px;
          color: #FF9933;
      }
 
      .slogan {
          color: #FF9933;
-         margin-top: 30px;
-         margin-bottom: 70px;
+         margin-top: 120px;
+         margin-bottom: 0px;
          text-align: center;
          font-size: 35px;
-         top: 22px;
+         top: 52px;
      }
 
      .lead {
-         margin-bottom: 110px;
+         margin-top: 70px;
+         margin-bottom: -30px;
          text-align: center;
-         color: white;
+         color: #FF0000;
      }
  }
